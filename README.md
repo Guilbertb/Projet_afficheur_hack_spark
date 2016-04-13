@@ -4,6 +4,10 @@
 #
 # https://hackspark.fr/fr/afficheur-a-led-rvb-controle-en-usb-de-38-4cm-x-19-2cm-64x32-pixels.html
 
+# /simu  (simulateur en sdl)   gcc simu.c -o simu `sdl-config --cflags --libs `
+
+
+
 
 
 
